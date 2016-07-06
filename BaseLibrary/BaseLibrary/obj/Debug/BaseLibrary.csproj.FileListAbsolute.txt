@@ -1,0 +1,5 @@
+c:\users\chuck\documents\visual studio 2012\Projects\BaseLibrary\BaseLibrary\bin\Debug\BaseLibrary.dll
+c:\users\chuck\documents\visual studio 2012\Projects\BaseLibrary\BaseLibrary\bin\Debug\BaseLibrary.pdb
+c:\users\chuck\documents\visual studio 2012\Projects\BaseLibrary\BaseLibrary\obj\Debug\BaseLibrary.csprojResolveAssemblyReference.cache
+c:\users\chuck\documents\visual studio 2012\Projects\BaseLibrary\BaseLibrary\obj\Debug\BaseLibrary.dll
+c:\users\chuck\documents\visual studio 2012\Projects\BaseLibrary\BaseLibrary\obj\Debug\BaseLibrary.pdb
