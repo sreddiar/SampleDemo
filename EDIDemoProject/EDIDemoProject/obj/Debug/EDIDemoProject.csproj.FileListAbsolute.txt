@@ -5,3 +5,9 @@ C:\Users\chuck\Documents\Visual Studio 2012\Projects\EDIDemoProject\EDIDemoProje
 C:\Users\chuck\Documents\Visual Studio 2012\Projects\EDIDemoProject\EDIDemoProject\obj\Debug\EDIDemoProject.pdb
 C:\Users\chuck\Documents\Visual Studio 2012\Projects\EDIDemoProject\EDIDemoProject\bin\Debug\BaseLibrary.dll
 C:\Users\chuck\Documents\Visual Studio 2012\Projects\EDIDemoProject\EDIDemoProject\bin\Debug\BaseLibrary.pdb
+C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\bin\Debug\EDIDemoProject.dll
+C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\bin\Debug\EDIDemoProject.pdb
+C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\bin\Debug\BaseLibrary.dll
+C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\bin\Debug\BaseLibrary.pdb
+C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\obj\Debug\EDIDemoProject.dll
+C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\obj\Debug\EDIDemoProject.pdb

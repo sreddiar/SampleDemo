@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace EDIDemoProject
 {
     [TestClass]
-    public class UnitTest3
+    public class SampleTest
     {
         [TestMethod]
         public void TestMethod1()
