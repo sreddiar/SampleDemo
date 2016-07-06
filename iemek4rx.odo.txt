@@ -1,0 +1,24 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   EDIDemoProject/EDIDemoProject/EDIDemoProject.csproj
+#	renamed:    EDIDemoProject/TestFile/SampleTest1.cs -> EDIDemoProject/EDIDemoProject/SampleTest1.cs
+#	modified:   EDIDemoProject/EDIDemoProject/SampleTest2.cs
+#	renamed:    EDIDemoProject/TestFile/SampleTest2.cs -> EDIDemoProject/EDIDemoProject/SampleTest3.cs
+#	modified:   EDIDemoProject/EDIDemoProject/UnitTest1.cs
+#	modified:   EDIDemoProject/EDIDemoProject/bin/Debug/EDIDemoProject.dll
+#	modified:   EDIDemoProject/EDIDemoProject/bin/Debug/EDIDemoProject.pdb
+#	modified:   EDIDemoProject/EDIDemoProject/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	modified:   EDIDemoProject/EDIDemoProject/obj/Debug/EDIDemoProject.csproj.FileListAbsolute.txt
+#	deleted:    EDIDemoProject/EDIDemoProject/obj/Debug/EDIDemoProject.csprojResolveAssemblyReference.cache
+#	modified:   EDIDemoProject/EDIDemoProject/obj/Debug/EDIDemoProject.dll
+#	modified:   EDIDemoProject/EDIDemoProject/obj/Debug/EDIDemoProject.pdb
+#	modified:   EDIDemoProject/TestResults/EDIDemoProject.TE.Tests.mdf
+#	modified:   EDIDemoProject/TestResults/EDIDemoProject.TE.Tests_log.ldf
+#	new file:   yggdakpg.rrx.txt
+#
+
