@@ -11,3 +11,4 @@ C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDe
 C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\bin\Debug\BaseLibrary.pdb
 C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\obj\Debug\EDIDemoProject.dll
 C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\obj\Debug\EDIDemoProject.pdb
+C:\Users\chuck\Desktop\Projects\CaptureRX\GitHub\SampleDemo\EDIDemoProject\EDIDemoProject\obj\Debug\EDIDemoProject.csprojResolveAssemblyReference.cache
